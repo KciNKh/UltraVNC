@@ -1,0 +1,49 @@
+
+# /UltraVNC Project Root/UltraVNC/
+/UltraVNC Project Root/UltraVNC/lib
+/UltraVNC Project Root/UltraVNC/Debug
+
+# /UltraVNC Project Root/UltraVNC/rdr/
+/UltraVNC Project Root/UltraVNC/rdr/Debug
+/UltraVNC Project Root/UltraVNC/rdr/Release
+
+# /UltraVNC Project Root/UltraVNC/vncviewer/
+/UltraVNC Project Root/UltraVNC/vncviewer/*.obj
+/UltraVNC Project Root/UltraVNC/vncviewer/Debug
+/UltraVNC Project Root/UltraVNC/vncviewer/Release
+/UltraVNC Project Root/UltraVNC/vncviewer/vncviewer.ncb
+/UltraVNC Project Root/UltraVNC/vncviewer/vncviewer.opt
+/UltraVNC Project Root/UltraVNC/vncviewer/vncviewer.plg
+
+# /UltraVNC Project Root/UltraVNC/vncviewer/omnithread/
+/UltraVNC Project Root/UltraVNC/vncviewer/omnithread/Debug
+/UltraVNC Project Root/UltraVNC/vncviewer/omnithread/Release
+
+# /UltraVNC Project Root/UltraVNC/vncviewer/res/
+/UltraVNC Project Root/UltraVNC/vncviewer/res/Thumbs.db
+
+# /UltraVNC Project Root/UltraVNC/vncviewer/res/stat/
+/UltraVNC Project Root/UltraVNC/vncviewer/res/stat/Thumbs.db
+
+# /UltraVNC Project Root/UltraVNC/winvnc/
+/UltraVNC Project Root/UltraVNC/winvnc/*.suo
+/UltraVNC Project Root/UltraVNC/winvnc/Debug
+/UltraVNC Project Root/UltraVNC/winvnc/Release
+/UltraVNC Project Root/UltraVNC/winvnc/winvnc.ncb
+/UltraVNC Project Root/UltraVNC/winvnc/winvnc.opt
+
+# /UltraVNC Project Root/UltraVNC/winvnc/omnithread/
+/UltraVNC Project Root/UltraVNC/winvnc/omnithread/Debug
+/UltraVNC Project Root/UltraVNC/winvnc/omnithread/Release
+
+# /UltraVNC Project Root/UltraVNC/winvnc/winvnc/
+/UltraVNC Project Root/UltraVNC/winvnc/winvnc/patches
+/UltraVNC Project Root/UltraVNC/winvnc/winvnc/semantic.cache
+/UltraVNC Project Root/UltraVNC/winvnc/winvnc/winvnc.plg
+
+# /UltraVNC Project Root/UltraVNC/winvnc/winvnc/res/
+/UltraVNC Project Root/UltraVNC/winvnc/winvnc/res/Thumbs.db
+
+# /UltraVNC Project Root/UltraVNC/zlib/
+/UltraVNC Project Root/UltraVNC/zlib/Debug
+/UltraVNC Project Root/UltraVNC/zlib/Release
